@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "nome": "Rio de Janeiro",
+    "pais": "Brasil",
+    "atualizado": "2024-11-24T12:00:00Z",
+    "pontos": [
+      {
+        "nome": "Cristo Redentor",
+        "latitude": -22.951944,
+        "longitude": -43.210556
+      },
+      {
+        "nome": "Pão de Açúcar",
+        "latitude": -22.948889,
+        "longitude": -43.155556
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Salvador",
+    "pais": "Brasil",
+    "atualizado": "2024-11-24T12:00:00Z",
+    "pontos": [
+      {
+        "nome": "Pelourinho",
+        "latitude": -12.971389,
+        "longitude": -38.510833
+      },
+      {
+        "nome": "Farol da Barra",
+        "latitude": -13.011944,
+        "longitude": -38.529167
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "São Paulo",
+    "pais": "Brasil",
+    "atualizado": "2024-11-24T12:00:00Z",
+    "pontos": [
+      {
+        "nome": "Avenida Paulista",
+        "latitude": -23.561111,
+        "longitude": -46.655833
+      },
+      {
+        "nome": "Parque Ibirapuera",
+        "latitude": -23.587778,
+        "longitude": -46.657222
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Curitiba",
+    "pais": "Brasil",
+    "atualizado": "2024-11-24T12:00:00Z",
+    "pontos": [
+      {
+        "nome": "Jardim Botânico",
+        "latitude": -25.442778,
+        "longitude": -49.252778
+      },
+      {
+        "nome": "Museu Oscar Niemeyer",
+        "latitude": -25.414167,
+        "longitude": -49.262222
+      }
+    ]
+  }
+]
