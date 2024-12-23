@@ -1,50 +1,36 @@
-# Welcome to your Expo app 👋
+#Aluno:Bruno Rodrigues dos Santos Silva
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Disciplina: Integrações Back-end e Publicação de Apps React Native [24E4_3]
 
-## Get started
+#Prints
 
-1. Install dependencies
+TELA DE LOGIN
 
-   ```bash
-   npm install
-   ```
+<img src="prints/LOGIN.png" alt="LOGIN" style="width:200px;heigth:200px">
+<img src="prints/LOGIN_DARK.png" alt="LOGIN" style="width:200px;heigth:200px">
 
-2. Start the app
+TELA DE CIDADES
 
-   ```bash
-    npx expo start
-   ```
+<img src="prints/LISTA.png" alt="Cidades" style="width:200px;heigth:200px">
+<img src="prints/LISTA_DARK.png" alt="Cidades" style="width:200px;heigth:200px">
 
-In the output, you'll find options to open the app in a
+FORMULARIO
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+<img src="prints/FORMULARIO.png" alt="FORMULARIO" style="width:200px;heigth:200px">
+<img src="prints/FORMULARIO_DARK.png" alt="FORMULARIO" style="width:200px;heigth:200px">
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+LOCALIZACAO
 
-## Get a fresh project
+<img src="prints/MAPA.png" alt="LOCALIZACAO" style="width:200px;heigth:200px">
+<img src="prints/MAPA_DARK.png" alt="LOCALIZACAO" style="width:200px;heigth:200px">
 
-When you're ready, run:
+DETALHES CIDADES
 
-```bash
-npm run reset-project
-```
+<img src="prints/CIDADE.png" alt="DETALHES" style="width:200px;heigth:200px">
+<img src="prints/CIDADE_DARK.png" alt="DETALHES" style="width:200px;heigth:200px">
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+API GraphQL
 
-## Learn more
+<img src="prints/APOLLO.png" alt="DETALHES" style="width:200px;heigth:200px">
 
-To learn more about developing your project with Expo, look at the following resources:
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
