@@ -3,9 +3,19 @@
   "compilerOptions": {
     "strict": true,
     "allowImportingTsExtensions": true,
+    "baseUrl": ".",
     "paths": {
       "@/*": [
         "./*"
+      ],
+      "@/constants/*": [
+        "constants/*"
+      ],
+      "@/styles/*": [
+        "styles/*"
+      ],
+      "@/models/*": [
+        "models/*"
       ]
     }
   },

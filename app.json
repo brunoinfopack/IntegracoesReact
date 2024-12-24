@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "brunoinfopack",
-    "slug": "brunoinfopack",
+    "slug": "integracaoreact",
     "version": "1.0.0",
     "orientation": "default",
     "icon": "./assets/images/icon.png",
@@ -38,9 +38,9 @@
         "origin": false
       },
       "eas": {
-        "projectId": "af06b44c-5a4c-415e-9f1d-427a04f58ca5"
+        "projectId": "54c7c25e-f86c-4b01-99ca-f897c1b5f0e6"
       }
     },
-    "owner": "victoraguiarsistemas"
+    "owner": "brunoinfopack"
   }
 }
